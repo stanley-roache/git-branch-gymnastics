@@ -16,3 +16,5 @@ Just going to keep a list here of my experiments..
 Now I have a situation where the readme file (this) is furthest forward on the master (changes made since point of branching) and the branches formed each have one new file.
 
 The challenge is to somehow merge both branches into master in a way that keeps the updated readme file.
+
+From what I can gather, a merge request from the master branch will automatically combine a new commit with all the changes included, a merge-commit, a commit with more than one parent that combines branches. See what happens...
