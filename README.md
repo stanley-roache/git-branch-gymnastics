@@ -18,3 +18,5 @@ Now I have a situation where the readme file (this) is furthest forward on the m
 The challenge is to somehow merge both branches into master in a way that keeps the updated readme file.
 
 From what I can gather, a merge request from the master branch will automatically combine a new commit with all the changes included, a merge-commit, a commit with more than one parent that combines branches. See what happens...
+
+Success! Well that's pretty straight forward. An interesting point to go to from here would be to investigate cases where simple merges don't work ie. conflict
