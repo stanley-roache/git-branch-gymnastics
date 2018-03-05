@@ -13,5 +13,6 @@ Just going to keep a list here of my experiments..
 - I used git checkout 'branch_to_steal_from' path/to/file/to/steal to copy one of the files to it's intended branch
 - I couldn't figure out how to push all respective changes to their branches, still had to do one push within each branch.
 
+Now I have a situation where the readme file (this) is furthest forward on the master (changes made since point of branching) and the branches formed each have one new file.
 
-Now I'll see what happens on merge!
+The challenge is to somehow merge both branches into master in a way that keeps the updated readme file.
